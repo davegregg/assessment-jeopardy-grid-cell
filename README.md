@@ -10,7 +10,7 @@
 4. Escaped characters (e.g. `\"`) are easy to deal with, so just remove the slash from these strings. *(4 points)*
 
 # Submission Guidelines
-1. Fork this repo and clone it to your machine.
+1. Fork [this](https://gitlab.com/kenzie-academy/se/fe/intro-to-backend-from-the-perspective-of-the-frontend/s_integrating-jeopardy-and-instantanswers.git) repo and clone it to your machine.
 2. Enable GitLab Pages for your repo.
 3. Add your code, per the instructions above.
 4. Push your completed code to your own repo.

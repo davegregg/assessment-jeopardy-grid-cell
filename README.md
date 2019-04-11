@@ -1,4 +1,4 @@
-# Integrating Jeopardy
+# Jeopardy Grid & Cell
 
 ![The Jeopardy board](https://upload.wikimedia.org/wikipedia/commons/d/d8/Jeopardy_game_board.png)
 
